@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "tuturials"
+	},
+	{
+		"path": "WebAssembly-tuturials"
+	},
+	{
+		"path": "books"
+	}
+],
+  "settings": {}
+}
