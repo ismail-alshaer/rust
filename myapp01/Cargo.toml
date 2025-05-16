@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+# The `environ` crate is used to read environment variables in Rust.
